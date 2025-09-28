@@ -1,4 +1,4 @@
-name: arm64ec
+name: arm64ec-glibc 
 
 on:
   push:
